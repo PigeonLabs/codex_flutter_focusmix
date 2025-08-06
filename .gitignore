@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore sound asset binaries
+assets/sounds/*.wav
+assets/sounds/*.mp3
+assets/sounds/*.ogg
